@@ -1,0 +1,44 @@
+---
+path: "/self-help-primer"
+date: "2017-07-27T17:12:33.962Z"
+title: "Self Improvement: A Beginner's Guide"
+---
+-- INTRO
+
+.....
+
+-- TABLE OF CONTENTS
+
+..... WHAT I DO
+
+FORMAT: TITLE, BODY, RESOURCES
+
+-- COLD SHOWERS
+
+-- BLACK COFFEE
+
+-- WRITING AFFIRMATIONS
+
+-- STOICISM
+
+-- NUTRITION
+
+-- WORKING OUT
+
+-- PSYCHEDELICS
+
+-- FLOW STATE
+
+-- SLEEP
+
+-- PHILOSOPHY
+
+-- READING
+
+-- SOCIAL MEDIA
+
+...... OTHER THINGS YOU CAN LOOK INTO
+
+-- NOFAP
+
+-- MEDITATION
