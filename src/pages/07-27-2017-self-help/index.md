@@ -9,8 +9,8 @@ All I know is that at some point in time, I became obsessed with
 self-improvement. I still have a long way to go, but here is what I have
 learned so far._
 
-DISCLAIMER: I'm not an expert. I'm not a doctor or anything. I'm just an ordinary
-person doing my best to do extraordinary things. **I'm just sharing what works for _me_.**
+DISCLAIMER: I'm not an expert. I'm not a doctor or anything.
+**I'm just sharing what works for _me_.**
 
 Let's get started!
 
@@ -27,12 +27,26 @@ Let's get started!
 - Philosophy
 - Reading
 - Social Media
-- People
+- Media
 - Other things you can look into
 
 ### Cold Showers
+Do you have trouble waking up in the morning?
+Cold showers wake you up.
+Do you want to improve your mental toughness?
+Cold showers train your mental toughness.
+Do you want to burn fat?
+Cold showers burn Brown Adipose Tissue (BAT) aka brown fat.
+Do you feel sore after that killer workout you recently did?
+Cold showers reduce Delayed Onset Muscle Soreness (DOMS).
+
+Hop into the shower, turn the cold water all the way, and embrace the pain of
+freezing liquid drenching your naked body. Endure it. Get used to it.
+Be consistent. Otherwise, there's no point.
 
 ### Black Coffee
+Do you have trouble waking up in the morning?
+
 
 ### Mantras
 
@@ -54,7 +68,7 @@ Let's get started!
 
 ### Social Media
 
-### People
+### Media
 
 ## Other things you can look into
 These are things that I personally have not explored or incorporated into my life.
