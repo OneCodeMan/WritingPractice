@@ -20,11 +20,10 @@ Let's get right into it.
 ### Cold Showers
 **Do you have trouble waking up in the morning?**
 
-Cold showers wake you up.
-
-**Do you want to improve your mental toughness?**
-
-Cold showers train your mental toughness.
+Cold showers wake you up. When cold water hits you, you instinctively react
+by breathing heavier. Breathing heavier increases oxygen intake and speeds up
+blood circulation. Blood travels around your body faster, giving your brain a
+little energy boost.
 
 **Do you want to burn energy?**
 
@@ -37,21 +36,48 @@ White fat is what you get from eating junk food, it's a bad kind of fat.
 
 **Do you feel sore after that killer workout you recently did?**
 
-Cold showers reduce Delayed Onset Muscle Soreness (DOMS).
+Cold showers reduce Delayed Onset Muscle Soreness (DOMS). DOMS is that crazy
+soreness you feel after a workout. It is due to mechanical damage to the muscles
+and inflammation. Cold showers are believed to reduce the inflammation.
+From my experience, I do feel significantly less sore after a cold shower.
+But I have to admit, the relation between DOMS and cold showers is something
+I currently lack knowledge in.
+
+**Do you want to improve your mental toughness?**
+
+Cold showers train your mental toughness.
+From my experience, I have learned persistence and endurance through cold showers.
+Cold showers have so many benefits, and they are the rational thing to be doing.
+It's painful, it's uncomfortable, but it's the right action to take.
+Keeping that in mind, it has taught me to choose doing the right thing over
+doing the comfortable thing.
 
 Hop into the shower, turn the cold water all the way, and embrace the pain of
 freezing liquid drenching your naked body. Endure it. Get used to it.
-Be consistent. Otherwise, there's no point.
+**Be consistent! Otherwise, there's no point.**
+
+There are a lot more benefits to taking cold showers, but these are the reasons
+why _I_ do them.
 
 **Diving Deeper**
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266793/
 
+http://www.sciencedirect.com/science/article/pii/0891584994900302
+
+http://bjsm.bmj.com.proxy-ub.rug.nl/content/46/4/233.full.pdf
+
 http://www.thebroscientist.com/5-real-scientific-benefits-cold-showers/
+
 
 ### Black Coffee
 Do you have trouble waking up in the morning?
 
+Black coffee increases your energy levels. Caffeine blocks Adenosine, a neurotransmitter
+that promotes sleep. Other neurotransmitters (like dopamine) increase and lead to
+enhanced firing of neurons.
+
+Caffeine has tons of other benefits... But that's the only reason _I_ drink it.
 
 ### Mantras
 
