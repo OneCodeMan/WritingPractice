@@ -2,6 +2,7 @@
 path: "/self-help-primer"
 date: "2017-07-27T17:12:33.962Z"
 title: "Self Improvement: A Beginner's Guide"
+ready: "false"
 ---
 _A couple months ago, I was thrown into an abyss. A bad storm.
 My memories are blurry as I try to recollect the past few months.

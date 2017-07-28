@@ -11,13 +11,13 @@ export default function Index({
   return (
     <div className="blog-posts">
       {posts
-        .filter(post => post.node.frontmatter.title.length > 0)
+        .filter(post => post.node.frontmatter.title.length > 0 )
         .map(({ node: post }) => {
           return (
             <div className="blog-post-preview" key={post.id}>
               <ul>
                 <li className="post-list-item">
-                  <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                  <Link to={post.frontmatter.path}>{post.frontmatter.title} - {post.frontmatter.ready}</Link>
                 </li>
               </ul>
             </div>
