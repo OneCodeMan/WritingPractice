@@ -8,7 +8,7 @@ import './index.css'
 const Header = () => (
   <div
     style={{
-      background: 'DeepSkyBlue',
+      background: '#446DF6',
       marginBottom: '1.45rem',
     }}
   >
@@ -19,16 +19,20 @@ const Header = () => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{
+          margin: 0,
+          color: '#FFFFFA',
+          textAlign: 'center',
+        }}>
         <Link
           to="/"
           style={{
-            color: 'white',
+            color: '#FFFFFA',
             textDecoration: 'none',
             letterSpacing: '2px',
           }}
         >
-          Cato
+          Creative Mind
             </Link>
       </h1>
     </div>
