@@ -80,6 +80,7 @@ enhanced firing of neurons.
 Caffeine has tons of other benefits... But that's the only reason _I_ drink it.
 
 **Diving Deeper**
+
 https://authoritynutrition.com/top-13-evidence-based-health-benefits-of-coffee/
 
 ### Mantras
