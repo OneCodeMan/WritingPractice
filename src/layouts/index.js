@@ -44,7 +44,7 @@ const TemplateWrapper = ({
 }) => (
     <div>
       <Helmet
-        title="Cato"
+        title="Creative Mind"
         meta={[
           { name: 'description', content: 'My blog' },
           { name: 'keywords', content: 'sample, something' },
