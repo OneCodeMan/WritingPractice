@@ -77,8 +77,8 @@ Waiting for his natural body to forget the fear of heights.
 
 "This is the best option." He whispers to himself.
 
-He puts his right hand on the ledge, and starts tip toeing to bring himself up the ledge.
-Hypnotized by his feelings.
+He puts his right hand on the ledge, and starts tip toeing to bring himself up the ledge,
+hypnotized by his feelings.
 
 But the sound of a squeak brought his mind back to earth. The sound came from behind.
 A woman entered the roof. She was carrying a lighter and a cigarette. She notices Jackson.
