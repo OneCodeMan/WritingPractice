@@ -23,6 +23,7 @@ const Header = () => (
           margin: 0,
           color: '#FFFFFA',
           textAlign: 'center',
+          fontSize: '50px',
         }}>
         <Link
           to="/"
@@ -32,7 +33,7 @@ const Header = () => (
             letterSpacing: '2px',
           }}
         >
-          Creative Mind
+          My Creative Mind
             </Link>
       </h1>
     </div>
@@ -44,7 +45,7 @@ const TemplateWrapper = ({
 }) => (
     <div>
       <Helmet
-        title="Creative Mind"
+        title="My Creative Mind"
         meta={[
           { name: 'description', content: 'My blog' },
           { name: 'keywords', content: 'sample, something' },

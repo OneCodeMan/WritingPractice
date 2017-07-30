@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 
-// import '../css/index.css'; // add some style if you want!
+import '../css/index.css'; // add some style if you want!
 
 export default function Index({
   data
@@ -15,7 +15,7 @@ export default function Index({
         .map(({ node: post }) => {
           return (
             <div className="blog-post-preview" key={post.id}>
-              <ul>
+              <ul className="post-list">
                 <li className="post-list-item">
                   <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
                 </li>
