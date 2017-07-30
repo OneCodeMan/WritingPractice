@@ -7,6 +7,7 @@ const NotFoundPage = () => (
     }}>
     <h1 style={{
       fontSize: '100px',
+      transform: 'rotate(5deg)',
     }}>
     404
   </h1>
