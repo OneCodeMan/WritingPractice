@@ -15,8 +15,8 @@ Today, before he clocked out, he took one of the notebooks from the supply cabin
 and left the building as if it were a normal work day.
 
 The office was always freezing cold, but outdoors was always scorching hot.
-Jackson wore a longsleeve while coding in the office. Being outside, he took his pale,
-baggy longsleeve off. His eyes slightly widened after noticing the price tag still
+Jackson wore a longsleeve while coding in the office. Outside, he took his pale,
+baggy longsleeve off. His eyes slightly widened after he noticed the price tag still
 attached. He let out a half-sigh half-chuckle, and continued walking to his car.
 The dark tank top he wore underneath appeared to suffocate his belly.
 He didn't have to check that for a price tag. The label at the back of that tank top
@@ -33,7 +33,7 @@ Years back, it was family, friends, laughter, and fitness equipment.
 Empty vodka bottles, ziplock bags of half-eaten mushrooms, empty bags of _Lays_ original
 chips filled the table in front of the TV.
 Years back, they were filled with self-help and philosophy books.
-The only filled items on that table were the two cylindrical orange containers labeled
+The only items that were filled on that table were two cylindrical orange containers labeled
 ```
 WALLACE, JACKSON
 TAKE 2 CAPSULES BY MOUTH ONCE DAILY
@@ -51,36 +51,36 @@ QUETIAPINE 25MG
 Half full.
 
 He sat on the couch in a slouched posture and turned the TV on. Brushing the _Lays_ bags off the table, Jackson
-places the notebook in front of him and navigates the remote control, leaving the notebook
+placed the notebook in front of him and navigated the remote control, leaving the notebook
 unopened. His Netflix queue was empty. A few months back, it was flooded with TV shows, movies
 documentaries, everything.
 
-Jackson looked through his Steam games. All of them were finished. He starts
-browsing games on the website, but puts his laptop away after a few minutes.
+Jackson looked through his Steam games. All of them were finished. He started
+browsing games on the website, but put his laptop away after a few minutes.
 
-Jackson checks his fridge. No food. He closes it and heads out, bringing only his notebook and a pen.
+Jackson checked his fridge. No food. He closes it and heads out, bringing only his notebook and a pen.
 
-Jackson makes his way to the apartment roof.
+He made his way to the apartment roof.
 
-He places his notebook on the ledge of the roof, and writes:
+He placed his notebook on the ledge of the roof, and wrote:
 
 ```
 Don't feel bad for me. I wanted this.
 ```
 
-His eyes gaze over that sentence over and over, the more he reads it, the more frequent he nods.
+His eyes gazed over that sentence over and over, the more he read it, the more frequent he nodded.
 
-He closes the notebook, and stares down from the roof.
+He closed the notebook, and stares down from the roof.
 Thinking about nothing in particular.
 Waiting for his mind to turn off.
 Waiting for his natural body to forget the fear of heights.
 
-"This is the best option." He whispers to himself.
+"This is the best option." He whispered to himself.
 
-He puts his right hand on the ledge, and starts tip toeing to bring himself up the ledge,
+He put his right hand on the ledge, starts tip toeing to bring himself up the ledge,
 hypnotized by his feelings.
 
 But the sound of a squeak brought his mind back to earth. The sound came from behind.
-A woman entered the roof. She was carrying a lighter and a cigarette. She notices Jackson.
+A woman entered the roof. She was carrying a lighter and a cigarette. She noticed Jackson.
 
 "Hey." she says. "You come here often?"
