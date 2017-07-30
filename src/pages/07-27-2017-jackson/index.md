@@ -9,8 +9,8 @@ _I'm completely new to creative writing so this probably sucks but I enjoyed wri
 
 
 
-It was Jackson's last day at his software job. On paydays after work, while employees would
-be making their way to the bar, Jackson would be making his way to the parking lot.
+It was Jackson's last day at his software job. On paydays after work, while employees made
+their way to the bar, Jackson made his way to the parking lot.
 Today, before he clocked out, he took one of the notebooks from the supply cabinet
 and left the building as if it were a normal work day.
 
@@ -55,10 +55,10 @@ placed the notebook in front of him and navigated the remote control, leaving th
 unopened. His Netflix queue was empty. A few months back, it was flooded with TV shows, movies
 documentaries, everything.
 
-Jackson looked through his Steam games. All of them were finished. He started
-browsing games on the website, but put his laptop away after a few minutes.
+Jackson looked through his Steam games. All of them were finished. He then
+browsed games on the website, but put his laptop away after a few minutes.
 
-Jackson checked his fridge. No food. He closes it and heads out, bringing only his notebook and a pen.
+Jackson checked his fridge. No food. He then closes it and heads out, bringing only his notebook and a pen.
 
 He made his way to the apartment roof.
 
@@ -70,8 +70,8 @@ Don't feel bad for me. I wanted this.
 
 His eyes gazed over that sentence over and over, the more he read it, the more frequent he nodded.
 
-He closed the notebook, and stares down from the roof.
-Thinking about nothing in particular.
+He closed the notebook, and stared down from the roof.
+He thought about nothing in particular.
 Waiting for his mind to turn off.
 Waiting for his natural body to forget the fear of heights.
 
