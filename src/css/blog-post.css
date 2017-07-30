@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 
+html {
+  background-color: rgb(255, 255, 250);
+}
+
 .blog-post-container {
   font-family: 'Amiri', serif;
+  color: #393E41;
 }
 
 .post-title {
