@@ -1,10 +1,22 @@
 import React from 'react'
 
 const NotFoundPage = () => (
-  <div>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+  <div style={{
+      textAlign: 'center',
+      marginTop: '25%',
+    }}>
+    <h1 style={{
+      fontSize: '100px',
+    }}>
+    404
+  </h1>
+
+  <h2 style={{
+    }}>
+    This page does not exist. :(
+  </h2>
+
   </div>
 )
 
-export default NotFoundPage
+export default NotFoundPage;
