@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+
+.blog-post-container {
+  font-family: 'Amiri', serif;
+}
+
+.post-title {
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.blog-post-content {
+  font-size: 23px;
+}

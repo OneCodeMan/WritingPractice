@@ -7,8 +7,6 @@ ready: "true"
 
 _I'm completely new to creative writing so this probably sucks but I enjoyed writing it!_
 
-
-
 It was Jackson's last day at his software job. On paydays after work, while employees made
 their way to the bar, Jackson made his way to the parking lot.
 Today, before he clocked out, he took one of the notebooks from the supply cabinet
