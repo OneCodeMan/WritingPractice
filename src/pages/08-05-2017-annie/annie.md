@@ -84,7 +84,7 @@ She makes her way to the kitchen, and then comes out holding a yellow plastic bo
 "Mustard is a universal condiment that works well on anything and everything. Rice,
 coffee, peanuts, parfaits, ice cream, eggs.. Drench mustard on that and it'll taste even better!"
 
-She squeezes the mustard bottle, coating the dog treat bowl with yellow liquid,
+She squeezed the mustard bottle, coating the dog treat bowl with yellow liquid,
 so much that the treats themselves could barely be seen.
 She seems like a fucking psychopath.
 
