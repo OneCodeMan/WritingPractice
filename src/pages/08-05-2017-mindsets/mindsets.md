@@ -103,5 +103,16 @@ _This could go wrong if misused..._ <br />
 _This isn't for everyone..._ <br />
 _Seriously._
 
+# Character Mindset
+Think of a fictional or non-fiction character you really admire. A superhero?
+A character from some TV show? Some athlete?
+
+It doesn't even have to be specific to an existing character. It could also be
+an archetype. Pretend your whole life is some RPG, or some anime and you're the
+protagonist that has to develop into a better character. This is perfect for those who
+are imaginative.
+
+I like to pretend I'm Batman whenever I'm working out.
+
 And that's it. I hope this helps or entertains some of you. Thanks for reading!
 ☺️
